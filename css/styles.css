@@ -340,3 +340,41 @@ footer {
     margin: 10px 0;
   }
 }
+
+/* celular 369px */
+@media (max-width: 369px) {
+  .navbar-items li {
+  font-size: 10px;
+  }
+
+  .main-banner h1 {
+    font-size: 36px;
+  }
+
+  
+  .main-banner p {
+    font-size: 24px;
+  }
+
+  .pricing-container h2 {
+    font-size: 28px;
+  }
+
+  .pricing-container p {
+    font-size: 14px;
+    
+  }
+
+  .searchdomain-container input[type="text"] {
+    font-size: 16px;
+
+  }
+
+  .contact-container h2 {
+    font-size: 32px;
+  }
+  
+  .contact-container p {
+    font-size: 18px;
+  }
+}
